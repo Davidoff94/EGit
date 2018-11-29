@@ -19,5 +19,4 @@ public class Country {
 	public void setPopulation(long population) {
 		this.population = population;
 	}
-	
 }
