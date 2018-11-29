@@ -1,8 +1,9 @@
 
 public class User {
 
+	private String firstName;	
 	private String name;
-
+	
 	public String getName() {
 		return name;
 	}
