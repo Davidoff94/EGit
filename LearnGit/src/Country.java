@@ -2,6 +2,7 @@
 public class Country {
 
 	private String name;
+	private long population;
 
 	public String getName() {
 		return name;
