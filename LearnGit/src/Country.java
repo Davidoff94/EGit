@@ -1,7 +1,7 @@
 
 public class Country {
 
-	private String name;
+	protected String name;
 
 	public String getName() {
 		return name;
