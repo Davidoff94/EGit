@@ -7,6 +7,10 @@ public class User {
 	public String getName() {
 		return name;
 	}
+	
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
 
 	public void setName(String name) {
 		this.name = name;
